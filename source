@@ -1,0 +1,17 @@
+https://api.themoviedb.org/3/movie/popular?api_key=YOUR_API_KEY
+
+https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KEY&query=inception
+
+ui preview :
+--------------------------------------------------
+| Movie Explorer                                  |
+--------------------------------------------------
+| [Search bar] [Search button]                   |
+--------------------------------------------------
+| 🎬 Inception         | 🎬 Oppenheimer          |
+| ⭐ 8.8               | ⭐ 9.1                   |
+| 📅 2010-07-16        | 📅 2023-07-21           |
+| Overview...         | Overview...             |
+| [Watch Trailer]     | [Watch Trailer]         |
+--------------------------------------------------
+
